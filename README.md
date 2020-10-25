@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Pedro.
 
+I'm an Electrical Engineer with a Master Degree in Robotics. I'm passionate about Open Source Movement and I love to learn and share knowledge. I've been working with Robotics development for the last 6 years.
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pxalcantara&show_icons=true&theme=gruvbox" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxalcantara&layout=compact&theme=gruvbox" alt="languages" height="165">
+</p>  
+
+- 💬 Ask me about anything that you think I'm able to help!
+-  🤝  I’m looking to collaborate on open-source development projects.
+- 😄 Pronouns: He
 <!--
 **pxalcantara/pxalcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
